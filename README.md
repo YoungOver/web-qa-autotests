@@ -1,21 +1,23 @@
 # web-qa-autotests
 
-A Playwright audit that runs against any static build and produces a bug list a client can read.
+Аудит на Playwright, который запускается против любой статической сборки и выдаёт список
+ошибок, понятный заказчику.
 
 ![](docs/qa.jpg)
 
-For every page it checks, on desktop and on a 390 px phone:
+Для каждой страницы на десктопе и на телефоне шириной 390 px проверяются:
 
-- JavaScript errors and failed network requests
-- page weight and load time
-- one H1, language attribute, meta description, alt text on images
-- empty links and unlabeled form fields
-- horizontal scroll and tap targets smaller than 32 px on mobile
+- ошибки JavaScript и упавшие сетевые запросы
+- вес страницы и время загрузки
+- один H1, атрибут языка, meta description, alt у изображений
+- пустые ссылки и поля форм без подписи
+- горизонтальная прокрутка и зоны нажатия меньше 32 px на мобильных
 
-The last run over [web-studio](https://github.com/YoungOver/web-studio) found 23 issues across 88 checks; `report.html` groups them by severity with the exact failing element.
+Последний прогон по [web-studio](https://github.com/YoungOver/web-studio) нашёл 23 проблемы
+на 88 проверках, `report.html` группирует их по важности и показывает конкретный элемент.
 
 ```bash
 npm i -D playwright-core
-node run.mjs          # writes results.json
+node run.mjs          # пишет results.json
 open report.html
 ```
