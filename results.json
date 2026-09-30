@@ -1,0 +1,618 @@
+[
+ {
+  "page": "ai-saas.html",
+  "id": "LOAD",
+  "name": "Страница загружается без ошибок JS",
+  "ok": false,
+  "detail": "Failed to load resource: the server responded with a status of 404 (Not Found)"
+ },
+ {
+  "page": "ai-saas.html",
+  "id": "NET",
+  "name": "Нет ответов 4xx/5xx",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "ai-saas.html",
+  "id": "WEIGHT",
+  "name": "Вес страницы до 3 МБ",
+  "ok": true,
+  "detail": "0.74 МБ, загрузка 351 мс"
+ },
+ {
+  "page": "ai-saas.html",
+  "id": "ALT",
+  "name": "У всех изображений есть alt",
+  "ok": true,
+  "detail": "0 из 0 без alt"
+ },
+ {
+  "page": "ai-saas.html",
+  "id": "H1",
+  "name": "Ровно один заголовок H1",
+  "ok": true,
+  "detail": "H1: 1"
+ },
+ {
+  "page": "ai-saas.html",
+  "id": "LANG",
+  "name": "Указан язык документа",
+  "ok": true,
+  "detail": "ru"
+ },
+ {
+  "page": "ai-saas.html",
+  "id": "META",
+  "name": "Есть meta description",
+  "ok": false,
+  "detail": "нет description"
+ },
+ {
+  "page": "ai-saas.html",
+  "id": "LINKS",
+  "name": "Нет пустых ссылок href=\"#\"",
+  "ok": false,
+  "detail": "пустых ссылок: 4"
+ },
+ {
+  "page": "ai-saas.html",
+  "id": "LABEL",
+  "name": "Поля форм подписаны",
+  "ok": true,
+  "detail": "без подписи: 0"
+ },
+ {
+  "page": "ai-saas.html",
+  "id": "MOB-SCROLL",
+  "name": "Нет горизонтального скролла на 390 px",
+  "ok": true,
+  "detail": "ширина контента 390 px при экране 390 px"
+ },
+ {
+  "page": "ai-saas.html",
+  "id": "MOB-TAP",
+  "name": "Кнопки и ссылки не меньше 32 px для пальца",
+  "ok": true,
+  "detail": "мелких целей: 0"
+ },
+ {
+  "page": "clinic.html",
+  "id": "LOAD",
+  "name": "Страница загружается без ошибок JS",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "clinic.html",
+  "id": "NET",
+  "name": "Нет ответов 4xx/5xx",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "clinic.html",
+  "id": "WEIGHT",
+  "name": "Вес страницы до 3 МБ",
+  "ok": true,
+  "detail": "2.61 МБ, загрузка 211 мс"
+ },
+ {
+  "page": "clinic.html",
+  "id": "ALT",
+  "name": "У всех изображений есть alt",
+  "ok": true,
+  "detail": "0 из 10 без alt"
+ },
+ {
+  "page": "clinic.html",
+  "id": "H1",
+  "name": "Ровно один заголовок H1",
+  "ok": true,
+  "detail": "H1: 1"
+ },
+ {
+  "page": "clinic.html",
+  "id": "LANG",
+  "name": "Указан язык документа",
+  "ok": true,
+  "detail": "ru"
+ },
+ {
+  "page": "clinic.html",
+  "id": "META",
+  "name": "Есть meta description",
+  "ok": false,
+  "detail": "нет description"
+ },
+ {
+  "page": "clinic.html",
+  "id": "LINKS",
+  "name": "Нет пустых ссылок href=\"#\"",
+  "ok": false,
+  "detail": "пустых ссылок: 1"
+ },
+ {
+  "page": "clinic.html",
+  "id": "LABEL",
+  "name": "Поля форм подписаны",
+  "ok": true,
+  "detail": "без подписи: 0"
+ },
+ {
+  "page": "clinic.html",
+  "id": "MOB-SCROLL",
+  "name": "Нет горизонтального скролла на 390 px",
+  "ok": true,
+  "detail": "ширина контента 390 px при экране 390 px"
+ },
+ {
+  "page": "clinic.html",
+  "id": "MOB-TAP",
+  "name": "Кнопки и ссылки не меньше 32 px для пальца",
+  "ok": false,
+  "detail": "мелких целей: 3"
+ },
+ {
+  "page": "club.html",
+  "id": "LOAD",
+  "name": "Страница загружается без ошибок JS",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "club.html",
+  "id": "NET",
+  "name": "Нет ответов 4xx/5xx",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "club.html",
+  "id": "WEIGHT",
+  "name": "Вес страницы до 3 МБ",
+  "ok": true,
+  "detail": "2.18 МБ, загрузка 53 мс"
+ },
+ {
+  "page": "club.html",
+  "id": "ALT",
+  "name": "У всех изображений есть alt",
+  "ok": true,
+  "detail": "0 из 0 без alt"
+ },
+ {
+  "page": "club.html",
+  "id": "H1",
+  "name": "Ровно один заголовок H1",
+  "ok": true,
+  "detail": "H1: 1"
+ },
+ {
+  "page": "club.html",
+  "id": "LANG",
+  "name": "Указан язык документа",
+  "ok": true,
+  "detail": "ru"
+ },
+ {
+  "page": "club.html",
+  "id": "META",
+  "name": "Есть meta description",
+  "ok": false,
+  "detail": "нет description"
+ },
+ {
+  "page": "club.html",
+  "id": "LINKS",
+  "name": "Нет пустых ссылок href=\"#\"",
+  "ok": false,
+  "detail": "пустых ссылок: 2"
+ },
+ {
+  "page": "club.html",
+  "id": "LABEL",
+  "name": "Поля форм подписаны",
+  "ok": true,
+  "detail": "без подписи: 0"
+ },
+ {
+  "page": "club.html",
+  "id": "MOB-SCROLL",
+  "name": "Нет горизонтального скролла на 390 px",
+  "ok": true,
+  "detail": "ширина контента 390 px при экране 390 px"
+ },
+ {
+  "page": "club.html",
+  "id": "MOB-TAP",
+  "name": "Кнопки и ссылки не меньше 32 px для пальца",
+  "ok": false,
+  "detail": "мелких целей: 4"
+ },
+ {
+  "page": "coffee.html",
+  "id": "LOAD",
+  "name": "Страница загружается без ошибок JS",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "coffee.html",
+  "id": "NET",
+  "name": "Нет ответов 4xx/5xx",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "coffee.html",
+  "id": "WEIGHT",
+  "name": "Вес страницы до 3 МБ",
+  "ok": false,
+  "detail": "3.37 МБ, загрузка 220 мс"
+ },
+ {
+  "page": "coffee.html",
+  "id": "ALT",
+  "name": "У всех изображений есть alt",
+  "ok": true,
+  "detail": "0 из 10 без alt"
+ },
+ {
+  "page": "coffee.html",
+  "id": "H1",
+  "name": "Ровно один заголовок H1",
+  "ok": true,
+  "detail": "H1: 1"
+ },
+ {
+  "page": "coffee.html",
+  "id": "LANG",
+  "name": "Указан язык документа",
+  "ok": true,
+  "detail": "ru"
+ },
+ {
+  "page": "coffee.html",
+  "id": "META",
+  "name": "Есть meta description",
+  "ok": false,
+  "detail": "нет description"
+ },
+ {
+  "page": "coffee.html",
+  "id": "LINKS",
+  "name": "Нет пустых ссылок href=\"#\"",
+  "ok": false,
+  "detail": "пустых ссылок: 2"
+ },
+ {
+  "page": "coffee.html",
+  "id": "LABEL",
+  "name": "Поля форм подписаны",
+  "ok": true,
+  "detail": "без подписи: 0"
+ },
+ {
+  "page": "coffee.html",
+  "id": "MOB-SCROLL",
+  "name": "Нет горизонтального скролла на 390 px",
+  "ok": true,
+  "detail": "ширина контента 390 px при экране 390 px"
+ },
+ {
+  "page": "coffee.html",
+  "id": "MOB-TAP",
+  "name": "Кнопки и ссылки не меньше 32 px для пальца",
+  "ok": true,
+  "detail": "мелких целей: 0"
+ },
+ {
+  "page": "detailing.html",
+  "id": "LOAD",
+  "name": "Страница загружается без ошибок JS",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "detailing.html",
+  "id": "NET",
+  "name": "Нет ответов 4xx/5xx",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "detailing.html",
+  "id": "WEIGHT",
+  "name": "Вес страницы до 3 МБ",
+  "ok": true,
+  "detail": "2.00 МБ, загрузка 90 мс"
+ },
+ {
+  "page": "detailing.html",
+  "id": "ALT",
+  "name": "У всех изображений есть alt",
+  "ok": true,
+  "detail": "0 из 0 без alt"
+ },
+ {
+  "page": "detailing.html",
+  "id": "H1",
+  "name": "Ровно один заголовок H1",
+  "ok": true,
+  "detail": "H1: 1"
+ },
+ {
+  "page": "detailing.html",
+  "id": "LANG",
+  "name": "Указан язык документа",
+  "ok": true,
+  "detail": "ru"
+ },
+ {
+  "page": "detailing.html",
+  "id": "META",
+  "name": "Есть meta description",
+  "ok": false,
+  "detail": "нет description"
+ },
+ {
+  "page": "detailing.html",
+  "id": "LINKS",
+  "name": "Нет пустых ссылок href=\"#\"",
+  "ok": true,
+  "detail": "пустых ссылок: 0"
+ },
+ {
+  "page": "detailing.html",
+  "id": "LABEL",
+  "name": "Поля форм подписаны",
+  "ok": true,
+  "detail": "без подписи: 0"
+ },
+ {
+  "page": "detailing.html",
+  "id": "MOB-SCROLL",
+  "name": "Нет горизонтального скролла на 390 px",
+  "ok": true,
+  "detail": "ширина контента 390 px при экране 390 px"
+ },
+ {
+  "page": "detailing.html",
+  "id": "MOB-TAP",
+  "name": "Кнопки и ссылки не меньше 32 px для пальца",
+  "ok": false,
+  "detail": "мелких целей: 11"
+ },
+ {
+  "page": "index.html",
+  "id": "LOAD",
+  "name": "Страница загружается без ошибок JS",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "index.html",
+  "id": "NET",
+  "name": "Нет ответов 4xx/5xx",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "index.html",
+  "id": "WEIGHT",
+  "name": "Вес страницы до 3 МБ",
+  "ok": true,
+  "detail": "0.88 МБ, загрузка 414 мс"
+ },
+ {
+  "page": "index.html",
+  "id": "ALT",
+  "name": "У всех изображений есть alt",
+  "ok": true,
+  "detail": "0 из 0 без alt"
+ },
+ {
+  "page": "index.html",
+  "id": "H1",
+  "name": "Ровно один заголовок H1",
+  "ok": false,
+  "detail": "H1: 2"
+ },
+ {
+  "page": "index.html",
+  "id": "LANG",
+  "name": "Указан язык документа",
+  "ok": true,
+  "detail": "ru"
+ },
+ {
+  "page": "index.html",
+  "id": "META",
+  "name": "Есть meta description",
+  "ok": false,
+  "detail": "нет description"
+ },
+ {
+  "page": "index.html",
+  "id": "LINKS",
+  "name": "Нет пустых ссылок href=\"#\"",
+  "ok": false,
+  "detail": "пустых ссылок: 12"
+ },
+ {
+  "page": "index.html",
+  "id": "LABEL",
+  "name": "Поля форм подписаны",
+  "ok": true,
+  "detail": "без подписи: 0"
+ },
+ {
+  "page": "index.html",
+  "id": "MOB-SCROLL",
+  "name": "Нет горизонтального скролла на 390 px",
+  "ok": true,
+  "detail": "ширина контента 390 px при экране 390 px"
+ },
+ {
+  "page": "index.html",
+  "id": "MOB-TAP",
+  "name": "Кнопки и ссылки не меньше 32 px для пальца",
+  "ok": false,
+  "detail": "мелких целей: 4"
+ },
+ {
+  "page": "repair.html",
+  "id": "LOAD",
+  "name": "Страница загружается без ошибок JS",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "repair.html",
+  "id": "NET",
+  "name": "Нет ответов 4xx/5xx",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "repair.html",
+  "id": "WEIGHT",
+  "name": "Вес страницы до 3 МБ",
+  "ok": true,
+  "detail": "2.16 МБ, загрузка 251 мс"
+ },
+ {
+  "page": "repair.html",
+  "id": "ALT",
+  "name": "У всех изображений есть alt",
+  "ok": true,
+  "detail": "0 из 5 без alt"
+ },
+ {
+  "page": "repair.html",
+  "id": "H1",
+  "name": "Ровно один заголовок H1",
+  "ok": true,
+  "detail": "H1: 1"
+ },
+ {
+  "page": "repair.html",
+  "id": "LANG",
+  "name": "Указан язык документа",
+  "ok": true,
+  "detail": "ru"
+ },
+ {
+  "page": "repair.html",
+  "id": "META",
+  "name": "Есть meta description",
+  "ok": false,
+  "detail": "нет description"
+ },
+ {
+  "page": "repair.html",
+  "id": "LINKS",
+  "name": "Нет пустых ссылок href=\"#\"",
+  "ok": false,
+  "detail": "пустых ссылок: 1"
+ },
+ {
+  "page": "repair.html",
+  "id": "LABEL",
+  "name": "Поля форм подписаны",
+  "ok": true,
+  "detail": "без подписи: 0"
+ },
+ {
+  "page": "repair.html",
+  "id": "MOB-SCROLL",
+  "name": "Нет горизонтального скролла на 390 px",
+  "ok": true,
+  "detail": "ширина контента 390 px при экране 390 px"
+ },
+ {
+  "page": "repair.html",
+  "id": "MOB-TAP",
+  "name": "Кнопки и ссылки не меньше 32 px для пальца",
+  "ok": true,
+  "detail": "мелких целей: 0"
+ },
+ {
+  "page": "school.html",
+  "id": "LOAD",
+  "name": "Страница загружается без ошибок JS",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "school.html",
+  "id": "NET",
+  "name": "Нет ответов 4xx/5xx",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "school.html",
+  "id": "WEIGHT",
+  "name": "Вес страницы до 3 МБ",
+  "ok": true,
+  "detail": "2.22 МБ, загрузка 72 мс"
+ },
+ {
+  "page": "school.html",
+  "id": "ALT",
+  "name": "У всех изображений есть alt",
+  "ok": true,
+  "detail": "0 из 0 без alt"
+ },
+ {
+  "page": "school.html",
+  "id": "H1",
+  "name": "Ровно один заголовок H1",
+  "ok": true,
+  "detail": "H1: 1"
+ },
+ {
+  "page": "school.html",
+  "id": "LANG",
+  "name": "Указан язык документа",
+  "ok": true,
+  "detail": "ru"
+ },
+ {
+  "page": "school.html",
+  "id": "META",
+  "name": "Есть meta description",
+  "ok": false,
+  "detail": "нет description"
+ },
+ {
+  "page": "school.html",
+  "id": "LINKS",
+  "name": "Нет пустых ссылок href=\"#\"",
+  "ok": true,
+  "detail": "пустых ссылок: 0"
+ },
+ {
+  "page": "school.html",
+  "id": "LABEL",
+  "name": "Поля форм подписаны",
+  "ok": false,
+  "detail": "без подписи: 1"
+ },
+ {
+  "page": "school.html",
+  "id": "MOB-SCROLL",
+  "name": "Нет горизонтального скролла на 390 px",
+  "ok": true,
+  "detail": "ширина контента 390 px при экране 390 px"
+ },
+ {
+  "page": "school.html",
+  "id": "MOB-TAP",
+  "name": "Кнопки и ссылки не меньше 32 px для пальца",
+  "ok": false,
+  "detail": "мелких целей: 14"
+ }
+]
